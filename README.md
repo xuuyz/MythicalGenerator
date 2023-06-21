@@ -7,7 +7,7 @@ Inspired by the weekly polls for Month Of The Mythical (why the file name is mot
 
 Downloads:
 
-Windows version will be in the releases.
+Windows version will be in the releases. Current ver: v0.0.2
 
 Source Code: Download all, or git clone using the command below
 
